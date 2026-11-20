@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "App Idoso",
+    "slug": "app-idoso",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.tales.appidoso"
+    },
+    "ios": {
+      "bundleIdentifier": "com.tales.appidoso"
+    }
+  }
+}
